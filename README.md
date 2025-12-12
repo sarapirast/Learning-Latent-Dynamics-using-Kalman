@@ -12,10 +12,10 @@ Gaussian state-space models from neural population activity.
 - Reconstruction accuracy evaluation (NRMSE)
 
 ## Requirements
--numpy
--scipy
--matplotlib
--scikit-learn
+- numpy
+- scipy
+- matplotlib
+- scikit-learn
 
 ## How to run
 ```bash
