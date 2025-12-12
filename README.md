@@ -11,7 +11,7 @@ Gaussian state-space models from neural population activity.
 - Expectation-Maximization learning
 - Reconstruction accuracy evaluation (NRMSE)
 
-##Requirements
+## Requirements
 -numpy
 -scipy
 -matplotlib
